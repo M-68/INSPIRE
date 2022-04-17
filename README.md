@@ -1,6 +1,8 @@
 # INSPIRE
 IIT-B TECHFEST '20
 
+Landing page for M-68
+Development continued by [@Gizmotronn](https://la7.dev)
 
 khan 
 ocw 
